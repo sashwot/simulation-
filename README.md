@@ -1,4 +1,4 @@
-# simulation-
+# simulation- in jupyter notebook
 import pandas as pd
 from matplotlib import pyplot as plt
 import matplotlib.pyplot as figure
